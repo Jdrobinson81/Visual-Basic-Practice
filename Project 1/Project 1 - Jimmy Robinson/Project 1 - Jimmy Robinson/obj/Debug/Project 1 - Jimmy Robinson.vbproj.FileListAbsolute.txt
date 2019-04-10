@@ -1,0 +1,12 @@
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\bin\Debug\Project 1 - Jimmy Robinson.exe.config
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\bin\Debug\Project 1 - Jimmy Robinson.exe
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\bin\Debug\Project 1 - Jimmy Robinson.pdb
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\bin\Debug\Project 1 - Jimmy Robinson.xml
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project 1 - Jimmy Robinson.vbprojAssemblyReference.cache
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project_1___Jimmy_Robinson.Form1.resources
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project_1___Jimmy_Robinson.Resources.resources
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project 1 - Jimmy Robinson.vbproj.GenerateResource.cache
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project 1 - Jimmy Robinson.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project 1 - Jimmy Robinson.exe
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project 1 - Jimmy Robinson.xml
+C:\Users\Jim\Desktop\VB\Project 1\Project 1 - Jimmy Robinson\Project 1 - Jimmy Robinson\obj\Debug\Project 1 - Jimmy Robinson.pdb
