@@ -1,0 +1,12 @@
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\bin\Debug\Black Book.exe.config
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\bin\Debug\Black Book.exe
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\bin\Debug\Black Book.pdb
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\bin\Debug\Black Book.xml
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black Book.vbprojAssemblyReference.cache
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black_Book.Form1.resources
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black_Book.Resources.resources
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black Book.vbproj.GenerateResource.cache
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black Book.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black Book.exe
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black Book.xml
+C:\Users\Jim\Desktop\VB\Black Book\Black Book\Black Book\obj\Debug\Black Book.pdb
