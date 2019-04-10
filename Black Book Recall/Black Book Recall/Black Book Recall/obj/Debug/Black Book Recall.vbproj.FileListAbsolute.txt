@@ -1,0 +1,12 @@
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black Book Recall.vbprojAssemblyReference.cache
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black_Book_Recall.Form1.resources
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black_Book_Recall.Resources.resources
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black Book Recall.vbproj.GenerateResource.cache
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black Book Recall.vbproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\bin\Debug\Black Book Recall.exe.config
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\bin\Debug\Black Book Recall.exe
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\bin\Debug\Black Book Recall.pdb
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\bin\Debug\Black Book Recall.xml
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black Book Recall.exe
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black Book Recall.xml
+C:\Users\Jim\Desktop\VB\Black Book Recall\Black Book Recall\Black Book Recall\obj\Debug\Black Book Recall.pdb
